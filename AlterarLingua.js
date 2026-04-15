@@ -10,14 +10,14 @@ function mudarIdioma(idioma){
             juliaContexto: "Terapia sistêmica individual, de casal e familiar.",
             //sobre mim
             isobreMim:"Sobre mim",
-            smp1:'Sou <strong id="ifontStrong">terapeuta sistêmica para famílias, casais e indivíduos.</strong> Nasci no Rio de Janeiro e, ao longo da minha vida, morei em diferentes países (Estados Unidos, México e Alemanha). Estudei Ciências Sociais na Universidade de Brasília e trabalhei em diversos projetos de pesquisa nas áreas de gênero e educação.',
-            smp2:'Há mais de 20 anos, vivo com minha família em Munique. Aqui, estudei na LMU (Universidade Ludwig-Maximilians) e trabalhei na área social com foco em interculturalidade e comunicação. Posteriormente, atuei em uma creche. Através do contato direto com diversas famílias de diferentes contextos, percebi que, às vezes, as pessoas precisam de apoio para encontrar soluções para seus problemas e conflitos.',
-            smp3:'Por isso, fiz a formação em aconselhamento individual, familiar e de casais no Münchener Institut für systemische Weiterbildung e, em seguida, optei pela formação como terapeuta sistêmica na Gesellschaft für Systemische Therapie und Beratung em Munique. <strong id="ifontStrong">Meu enfoque é baseado em um tratamento respeitoso e empático frente aos desafios do dia a dia.</strong> Acredito que cada pessoa tem a capacidade de encontrar soluções para seus problemas, e vejo meu papel como uma facilitadora e apoiadora nesse processo.',
+            smp1:'Sou <strong id="ifontStrong">terapeuta sistêmica</strong> e acompanho famílias, casais — especialmente em relações interculturais — e pessoas em processos de mudança, crise e desenvolvimento pessoal.',
+            smp2:'Nasci no Rio de Janeiro e vivi em diferentes países, como Estados Unidos, México e Alemanha. Essas experiências moldaram profundamente meu olhar sobre as relações, as diferenças culturais e as diversas formas de viver e se relacionar.',
+            smp3:'Vivo em Munique há mais de 20 anos, onde me formei e atuei na área social, com foco em interculturalidade e comunicação. Em meu trabalho, busco criar um espaço seguro e acolhedor. <strong id="ifontStrong">Acredito que cada pessoa possui recursos próprios para encontrar novos caminhos</strong> e vejo meu papel como um acompanhamento empático, respeitoso e colaborativo.',
             //serviços
             iservicos:"Serviços",
-            svp1:'Nesses momentos, é importante encontrar alguém em quem confiar e abrir-se para novas possibilidades. Muitas vezes, uma simples mudança de perspectiva pode ajudar você a aprender e experimentar novas formas de lidar com os desafios.',
-            svp2:'<strong id="ifontStrong">A terapia sistêmica ajuda você a redescobrir e fortalecer seus recursos pessoais, criando soluções que respeitam seus limites e atendem às suas necessidades.</strong>',
-            svp3:'Estou à disposição para acompanhar você nesse processo. <strong id="ifontStrong">Seja em psicoterapia, aconselhamento de casais, terapia familiar ou orientação parental</strong>, vamos focar em suas habilidades e forças e encontrar novas estratégias para enfrentar os desafios. Sempre com respeito à sua privacidade e confidencialidade e discrição.',
+            svp1:'Em momentos difíceis, é importante encontrar alguém em quem confiar e abrir-se para novas possibilidades. Muitas vezes, uma simples mudança de perspectiva ajuda a experimentar novas formas de lidar com os desafios.',
+            svp2:'<strong id="ifontStrong">A terapia sistêmica ajuda a redescobrir e fortalecer seus recursos pessoais, criando soluções que respeitam seus limites e atendem às suas necessidades.</strong>',
+            svp3:'Trabalho com sensibilidade especial para contextos interculturais e diferentes realidades de vida. <strong id="ifontStrong">Estou à disposição para acompanhar você nesse processo. Seja em terapia, aconselhamento de casais, terapia familiar ou orientação parental</strong>, vamos focar em suas habilidades e forças para encontrar novas estratégias — sempre com respeito à sua privacidade, confidencialidade e discrição.',
             //contato
             icontato:"Contato"
         },
@@ -32,14 +32,14 @@ function mudarIdioma(idioma){
             juliaContexto: "Individual, couples, and family systemic therapy.",
             // about me
             isobreMim: "About me",
-            smp1: 'I am a <strong id="ifontStrong">systemic therapist for families, couples, and individuals.</strong> I was born in Rio de Janeiro and, throughout my life, have lived in different countries (United States, Mexico, and Germany). I studied Social Sciences at the University of Brasília and worked on various research projects in the areas of gender and education.',
-            smp2: 'For over 20 years, I have been living with my family in Munich. Here, I studied at LMU (Ludwig-Maximilians University) and worked in the social field with a focus on interculturality and communication. Later, I worked in a daycare center. Through direct contact with various families from different backgrounds, I realized that sometimes people need support to find solutions to their problems and conflicts.',
-            smp3: 'Therefore, I completed training in individual, family, and couples counseling at the Münchener Institut für systemische Weiterbildung and then chose to pursue training as a systemic therapist at the Gesellschaft für Systemische Therapie und Beratung in Munich. <strong id="ifontStrong">My approach is based on respectful and empathetic treatment of everyday challenges.</strong> I believe that each person has the ability to find solutions to their problems, and I see my role as a facilitator and supporter in this process.',
+            smp1: 'I am a <strong id="ifontStrong">systemic therapist</strong> working with families, couples — especially in intercultural relationships — and individuals in times of change, crisis, and personal development.',
+            smp2: 'I was born in Rio de Janeiro and have lived in several countries, including the United States, Mexico, and Germany. These experiences have deeply shaped my view of relationships, cultural differences, and the many ways people live and connect.',
+            smp3: 'I have been living in Munich for over 20 years, where I trained and worked in the social field with a focus on intercultural communication. In my work, I aim to create a safe and welcoming space. <strong id="ifontStrong">I believe that every person has their own resources to find new paths</strong>, and I see my role as an empathetic, respectful, and collaborative companion in this process.',
             // services
             iservicos: "Services",
-            svp1: 'In these moments, it’s important to find someone you can trust and open up to new possibilities. Often, a simple change of perspective can help you learn and experience new ways of dealing with challenges.',
-            svp2: '<strong id="ifontStrong">Systemic therapy helps you rediscover and strengthen your personal resources, creating solutions that respect your limits and meet your needs.</strong>',
-            svp3: 'I am here to support you in this process. <strong id="ifontStrong">Whether in psychotherapy, couples counseling, family therapy, or parental guidance</strong>, we will focus on your skills and strengths and find new strategies to face challenges. Always with respect for your privacy, confidentiality, and discretion.',
+            svp1: 'In difficult moments, it is important to find someone you can trust and to open yourself to new possibilities. Often, a simple change in perspective can help you discover new ways of facing challenges.',
+            svp2: '<strong id="ifontStrong">Systemic therapy supports you in rediscovering and strengthening your personal resources, creating solutions that respect your boundaries and meet your needs.</strong>',
+            svp3: 'I work with particular sensitivity to intercultural contexts and diverse life experiences. <strong id="ifontStrong">I am here to accompany you in this process. Whether through therapy, couples counseling, family therapy, or parental guidance</strong>, we will focus on your strengths and abilities to develop new strategies — always with respect for your privacy, confidentiality, and discretion.',
             // contact
             icontato: "Contact"
         },
@@ -54,14 +54,14 @@ function mudarIdioma(idioma){
             juliaContexto: "Terapia sistémica individual, de pareja y familiar.",
             // sobre mí
             isobreMim: "Sobre mí",
-            smp1: 'Soy <strong id="ifontStrong">terapeuta sistémica para familias, parejas e individuos.</strong> Nací en Río de Janeiro y, a lo largo de mi vida, he vivido en diferentes países (Estados Unidos, México y Alemania). Estudié Ciencias Sociales en la Universidad de Brasília y trabajé en varios proyectos de investigación en las áreas de género y educación.',
-            smp2: 'Desde hace más de 20 años vivo con mi familia en Múnich. Aquí estudié en LMU (Universidad Ludwig-Maximilians) y trabajé en el área social con un enfoque en interculturalidad y comunicación. Más tarde trabajé en una guardería. A través del contacto directo con diversas familias de diferentes contextos, me di cuenta de que a veces las personas necesitan apoyo para encontrar soluciones a sus problemas y conflictos.',
-            smp3: 'Por eso, me formé en asesoramiento individual, familiar y de pareja en el Münchener Institut für systemische Weiterbildung y luego elegí formarme como terapeuta sistémica en la Gesellschaft für Systemische Therapie und Beratung en Múnich. <strong id="ifontStrong">Mi enfoque se basa en un trato respetuoso y empático ante los desafíos cotidianos.</strong> Creo que cada persona tiene la capacidad de encontrar soluciones a sus problemas, y veo mi papel como facilitadora y apoyo en este proceso.',
+            smp1: 'Soy <strong id="ifontStrong">terapeuta sistémica</strong> y acompaño a familias, parejas — especialmente en relaciones interculturales — y personas en procesos de cambio, crisis y desarrollo personal.',
+            smp2: 'Nací en Río de Janeiro y he vivido en distintos países, entre ellos Estados Unidos, México y Alemania. Estas experiencias han marcado profundamente mi mirada sobre las relaciones, las diferencias culturales y las diversas formas de vivir y vincularse.',
+            smp3: 'Vivo en Múnich desde hace más de 20 años, donde me formé y trabajé en el ámbito social, con énfasis en la interculturalidad y la comunicación. En mi trabajo busco crear un espacio seguro y acogedor. <strong id="ifontStrong">Creo que cada persona cuenta con recursos propios para encontrar nuevos caminos</strong>, y entiendo mi rol como un acompañamiento empático, respetuoso y colaborativo.',
             // servicios
             iservicos: "Servicios",
-            svp1: 'En estos momentos, es importante encontrar a alguien en quien confiar y abrirse a nuevas posibilidades. A menudo, un simple cambio de perspectiva puede ayudarte a aprender y experimentar nuevas formas de enfrentar los desafíos.',
-            svp2: '<strong id="ifontStrong">La terapia sistémica te ayuda a redescubrir y fortalecer tus recursos personales, creando soluciones que respetan tus límites y satisfacen tus necesidades.</strong>',
-            svp3: 'Estoy aquí para acompañarte en este proceso. <strong id="ifontStrong">Ya sea en psicoterapia, asesoramiento de pareja, terapia familiar o orientación parental</strong>, nos enfocaremos en tus habilidades y fortalezas y encontraremos nuevas estrategias para enfrentar los desafíos. Siempre con respeto a tu privacidad, confidencialidad y discreción.',
+            svp1: 'En estos momentos, es importante encontrar a alguien en quien confiar y abrirse a nuevas posibilidades. Muchas veces, un simple cambio de perspectiva puede ayudar a experimentar nuevas formas de afrontar los desafíos.',
+            svp2: '<strong id="ifontStrong">La terapia sistémica ayuda a redescubrir y fortalecer los recursos personales, creando soluciones que respetan los límites y responden a las necesidades.</strong>',
+            svp3: 'Trabajo con especial sensibilidad hacia los contextos interculturales y las diferentes realidades de vida. <strong id="ifontStrong">Estoy a tu disposición para acompañarte en este proceso. Ya sea en terapia, asesoramiento de pareja, terapia familiar u orientación parental</strong>, nos enfocaremos en tus capacidades y fortalezas para encontrar nuevas estrategias, siempre con respeto a tu privacidad, confidencialidad y discreción.',
             // contacto
             icontato: "Contacto"
         },
@@ -76,14 +76,14 @@ function mudarIdioma(idioma){
             juliaContexto: "Systemische Therapie für Einzelpersonen, Paare und Familien.",
             // Seção "Sobre mim"
             isobreMim: "Über mich",
-            smp1: 'Ich bin <strong id="ifontStrong">systemische Therapeutin für Familien, Paare und Einzelpersonen.</strong> Ich wurde in Rio de Janeiro geboren und habe im Laufe meines Lebens in verschiedenen Ländern gelebt (USA, Mexiko und Deutschland). Ich habe Sozialwissenschaften an der Universität von Brasília studiert und in verschiedenen Forschungsprojekten in den Bereichen Geschlechterforschung und Bildung mitgearbeitet.',
-            smp2: 'Seit über 20 Jahren lebe ich mit meiner Familie in München. Hier habe ich an der LMU (Ludwig-Maximilians-Universität) studiert und im sozialen Bereich mit dem Schwerpunkt Interkulturalität und Kommunikation gearbeitet. Später habe ich in einer Kindertagesstätte gearbeitet. Durch den direkten Kontakt mit verschiedenen Familien aus unterschiedlichen Kontexten wurde mir klar, dass Menschen manchmal Unterstützung benötigen, um Lösungen für ihre Probleme und Konflikte zu finden.',
-            smp3: 'Deshalb habe ich eine Ausbildung in Einzel-, Familien- und Paarberatung am Münchener Institut für systemische Weiterbildung abgeschlossen und mich anschließend zur systemischen Therapeutin an der Gesellschaft für Systemische Therapie und Beratung in München ausbilden lassen. <strong id="ifontStrong">Mein Ansatz basiert auf einem respektvollen und empathischen Umgang mit den täglichen Herausforderungen.</strong> Ich glaube, dass jeder Mensch die Fähigkeit hat, Lösungen für seine Probleme zu finden, und sehe meine Rolle als Unterstützerin und Begleiterin in diesem Prozess.',
+            smp1: 'Ich bin <strong id="ifontStrong">systemische Therapeutin</strong> und begleite Familien, Paare – besonders in interkulturellen Beziehungen – und Einzelpersonen in Phasen von Veränderung, Krise und persönlicher Entwicklung.',
+            smp2: 'Ich wurde in Rio de Janeiro geboren und habe in verschiedenen Ländern gelebt, unter anderem in den USA, Mexiko und Deutschland. Diese Erfahrungen haben meinen Blick auf Beziehungen, kulturelle Unterschiede und die Vielfalt von Lebensentwürfen stark geprägt.',
+            smp3: 'Seit über 20 Jahren lebe ich in München, wo ich mich ausgebildet und im sozialen Bereich mit den Schwerpunkten Interkulturalität und Kommunikation gearbeitet habe. In meiner Arbeit ist mir wichtig, einen geschützten und wertschätzenden Raum zu schaffen. <strong id="ifontStrong">Ich bin überzeugt, dass jeder Mensch eigene Ressourcen in sich trägt, um neue Wege zu finden</strong>, und verstehe meine Rolle als eine einfühlsame, respektvolle und unterstützende Begleitung.',
             // Seção "Serviços"
             iservicos: "Dienstleistungen",
-            svp1: 'In solchen Momenten ist es wichtig, jemanden zu finden, dem man vertrauen kann, und sich für neue Möglichkeiten zu öffnen. Oft kann eine einfache Perspektivänderung helfen, neue Wege zu entdecken und zu lernen, wie man mit Herausforderungen umgeht.',
-            svp2: '<strong id="ifontStrong">Die systemische Therapie hilft Ihnen, Ihre persönlichen Ressourcen wiederzuentdecken und zu stärken, und schafft Lösungen, die Ihre Grenzen respektieren und Ihre Bedürfnisse erfüllen.</strong>',
-            svp3: 'Ich bin hier, um Sie in diesem Prozess zu unterstützen. <strong id="ifontStrong">Ob in der Psychotherapie, Paarberatung, Familientherapie oder Elternberatung</strong> – wir werden uns auf Ihre Fähigkeiten und Stärken konzentrieren und neue Strategien entwickeln, um Herausforderungen zu meistern. Immer mit Respekt vor Ihrer Privatsphäre, Vertraulichkeit und Diskretion.',
+            svp1: 'In herausfordernden Zeiten ist es wichtig, eine Person zu finden, der man vertrauen kann, und sich für neue Perspektiven zu öffnen. Oft kann schon ein kleiner Perspektivwechsel dabei helfen, neue Wege im Umgang mit Belastungen zu entdecken.',
+            svp2: '<strong id="ifontStrong">Die systemische Therapie unterstützt dabei, eigene Ressourcen wiederzuentdecken und zu stärken sowie Lösungen zu entwickeln, die zu den eigenen Bedürfnissen und Grenzen passen.</strong>',
+            svp3: 'Ich arbeite mit besonderer Sensibilität für interkulturelle Kontexte und unterschiedliche Lebensrealitäten. <strong id="ifontStrong">Gerne begleite ich Sie in diesem Prozess. Ob in therapeutischer Begleitung, Paarberatung, Familientherapie oder Elternberatung</strong> – wir richten den Blick auf Ihre Stärken und Fähigkeiten, um neue Strategien im Umgang mit Herausforderungen zu entwickeln, stets mit Respekt, Vertraulichkeit und Diskretion.',
             // Seção "Contato"
             icontato: "Kontakt"
         },
@@ -124,10 +124,4 @@ function mudarIdioma(idioma){
     } else {
         console.error("Idioma não suportado");
     }
-
-
-
-
-
 };
-
